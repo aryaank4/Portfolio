@@ -36,10 +36,37 @@ import promptopia from './promptopia.svg';
 import nike from './nike.svg';
 import dalle from './dalle.svg';
 import crypto from './crypto.svg';
+import amazon from './amazon.svg';
+import hackerrank from './hackerrank.svg';
+import scalar from "./scalar.svg";
+import google from "./google.svg";
+import udemy from "./udemy.svg";
+import greatlearning from "./greatlearning.svg";
+import microsoft from "./microsoft.svg";
+import britishairways from "./britishairways.svg";
+import pepsico from "./pepsico.svg";
+import tata from "./tata.svg";
+import wellsfargo from "./wellsfargo.svg";
+import accenture from "./accenture.svg";
+import goldmansachs from "./goldmansachs.svg";
+
 
 
 export {
     css,
+    amazon,
+    hackerrank,
+    scalar,
+    google,
+    udemy,
+    greatlearning,
+    microsoft,
+    britishairways,
+    pepsico,
+    tata,
+    wellsfargo,
+    accenture,
+    goldmansachs,
     express,
     promptopia,
     nike,
